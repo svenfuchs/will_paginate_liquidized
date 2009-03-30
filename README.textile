@@ -1,0 +1,5 @@
+h1. WillPaginate Liquidized
+
+This plugin allows you to use will\_paginate with Liquid templates. That's it.
+
+Note that for this is *not* compatible with any current version of will\_paginate but *only* with the (fairly old) version that was shipped with Mephisto when I wrote the mephisto\_paged\_article\_list plugin. 
